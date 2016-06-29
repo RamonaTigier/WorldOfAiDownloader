@@ -1,0 +1,9 @@
+R:\GitHubRepo\WorldOfAiDownloader\bin\Debug\Metacraft.FlightSimulation.WoaiDownloader.exe
+R:\GitHubRepo\WorldOfAiDownloader\bin\Debug\Metacraft.FlightSimulation.WoaiDownloader.pdb
+R:\GitHubRepo\WorldOfAiDownloader\bin\Debug\HtmlAgilityPack.dll
+R:\GitHubRepo\WorldOfAiDownloader\obj\x86\Debug\Metacraft.FlightSimulation.WoaiDownloader.csprojResolveAssemblyReference.cache
+R:\GitHubRepo\WorldOfAiDownloader\obj\x86\Debug\Metacraft.FlightSimulation.WoaiDownloader.MainForm.resources
+R:\GitHubRepo\WorldOfAiDownloader\obj\x86\Debug\Metacraft.FlightSimulation.WoaiDownloader.Properties.Resources.resources
+R:\GitHubRepo\WorldOfAiDownloader\obj\x86\Debug\Metacraft.FlightSimulation.WoaiDownloader.csproj.GenerateResource.Cache
+R:\GitHubRepo\WorldOfAiDownloader\obj\x86\Debug\Metacraft.FlightSimulation.WoaiDownloader.exe
+R:\GitHubRepo\WorldOfAiDownloader\obj\x86\Debug\Metacraft.FlightSimulation.WoaiDownloader.pdb
